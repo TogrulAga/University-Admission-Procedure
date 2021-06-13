@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    amount = 1000
+    interest_rate = 5
+    years = 1
+    # change the next line
+    income = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5876#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 04 Jun 2021 15:57:25 UTC
+record: -1
